@@ -1,0 +1,5 @@
+C:\Users\jourm\source\repos\sample_dll\sample_dll\bin\Release\sample_dll.dll
+C:\Users\jourm\source\repos\sample_dll\sample_dll\bin\Release\sample_dll.pdb
+C:\Users\jourm\source\repos\sample_dll\sample_dll\obj\Release\sample_dll.csproj.CoreCompileInputs.cache
+C:\Users\jourm\source\repos\sample_dll\sample_dll\obj\Release\sample_dll.dll
+C:\Users\jourm\source\repos\sample_dll\sample_dll\obj\Release\sample_dll.pdb
